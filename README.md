@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal web and app development projects to sharpen my skills and build a strong portfolio.<br>👯 I’m looking to collaborate on open-source projects or innovative ideas where I can learn and contribute.<br>🤝 I’m looking for help with real-world development experience and mentorship in full-stack development.<br>🌱 I’m currently learning MERN stack, Git/GitHub, and exploring AI tools like LangChain.<br>💬 Ask me about HTML, CSS, JavaScript, React, or anything beginner-friendly in web dev — I love to share and grow together!<br>⚡ Fun fact: My coding journey started with curiosity, and now I can’t stop building cool things!
+🔭 I’m currently working on personal web and app development projects to sharpen my skills and build a strong portfolio.<br>👯 I’m looking to collaborate on open-source projects or innovative ideas where I can learn and contribute.<br>🤝 I’m looking for help with real-world development experience and mentorship in full-stack development.<br>🌱 I’m currently learning MERN stack, Git/GitHub, and exploring AI tools like LangChain.⚡ Fun fact: My coding journey started with curiosity, and now I can’t stop building cool things!
 
 
 ## 🌐 Socials:
